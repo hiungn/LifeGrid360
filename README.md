@@ -53,7 +53,7 @@ This is a capstone project built by a team of 4 students at **FPT University HCM
 | **Health Dashboard** | BMI, TDEE, BMR calculation with macro breakdown charts. |
 | **Meal Plans** | 100+ Vietnamese dishes with full nutrition data (calories, protein, carbs, fat, cost). AI-ranked by your preferences. |
 | **Workout Library** | Diverse exercises by difficulty, equipment, and muscle group. |
-| **Preference Learning** | The AI learns your behavior over time via feature vectors — the more you use it, the smarter it gets. |
+| **Preference Learning** | The AI learns your behavior over time via feature vectors - the more you use it, the smarter it gets. |
 | **Tier System** | FREE (30 AI messages/day), STUDENT/PRO (unlimited + personalized AI + mascot companion). |
 
 ---
@@ -93,11 +93,11 @@ Landing Page      Next.js 16 + Tailwind CSS 4 + Framer Motion
 
 The AI system goes beyond a simple chatbot wrapper:
 
-- **Agent Architecture** — Orchestrates multi-step reasoning with tool use (meal lookup, workout search, health data retrieval)
-- **Provider-Agnostic LLM** — OpenAI-compatible API layer, easily swappable between Groq, OpenAI, or any provider
-- **Feature Learning** — Computes user behavior vectors from interaction history, building a personalized preference profile
-- **Smart Scoring** — Meals and workouts are ranked by learned weights (calorie fit, protein ratio, budget, cuisine preference, difficulty match)
-- **Tier-Aware** — FREE users get default weights; STUDENT/PRO users get fully personalized AI with learned preferences
+- **Agent Architecture** - Orchestrates multi-step reasoning with tool use (meal lookup, workout search, health data retrieval)
+- **Provider-Agnostic LLM** - OpenAI-compatible API layer, easily swappable between Groq, OpenAI, or any provider
+- **Feature Learning** - Computes user behavior vectors from interaction history, building a personalized preference profile
+- **Smart Scoring** - Meals and workouts are ranked by learned weights (calorie fit, protein ratio, budget, cuisine preference, difficulty match)
+- **Tier-Aware** - FREE users get default weights; STUDENT/PRO users get fully personalized AI with learned preferences
 
 ---
 
@@ -117,12 +117,12 @@ The AI system goes beyond a simple chatbot wrapper:
 
 | Name | Role |
 |------|------|
-| **Nguyen Trong Hieu** | Lead Developer — Full-stack, AI, DevOps |
+| **Nguyen Trong Hieu** | Lead Developer - Full-stack, AI, DevOps |
 | **Luu Duc Anh** | Backend Developer |
 | **Le Tu Quoc Huy** | Mobile Developer |
 | **Vu Hoang Minh Khanh** | UI/UX Designer |
 
-Built at **FPT University Ho Chi Minh City** — Summer 2026
+Built at **FPT University Ho Chi Minh City** - Summer 2026
 
 ---
 
